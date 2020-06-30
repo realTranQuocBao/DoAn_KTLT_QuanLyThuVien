@@ -1,7 +1,5 @@
-</br>
 **Bài cuối kỳ môn Kỹ Thuật Lập Trình**
 
-</br>
 # Thông Tin Môn Học:
 </br>**Học Phần :** Kỹ thuật lập trình
 </br>**Mã HP    :**     0101124001
@@ -27,21 +25,20 @@
 # Thông tin các folder / file
 * img_demo     : chứa hình ảnh chạy demo chương trình
 * report_slide : chứa tài liệu báo cáo & slide thuyết trình & Design biểu mẫu dùng trong chương trình
-* source_code  :
-</br>Các file chứa dữ liệu để chạy chương trình:
+* source_code  : Chứa các file code chính của chương trình
+* Các file chứa dữ liệu để chạy chương trình:
 ```
 READERS.bin ; BOOKS.bin ; BORROW_RETURN_TICKETS.bin ; COOKIE.tqb
 ```
-</br>
-</br>Source Code:
+* Source Code:
 ```
 QuanLyThuVien.cpp
 ```
-</br>Chương trình đã biên dịch sẵn:
+* Chương trình đã biên dịch sẵn:
 ```
 QuanLyThuVien.exe
 ```
-</br>Dữ Liệu Mẫu:
+* Dữ Liệu Mẫu:
 ```
 sample_data.xlsx
 ```
