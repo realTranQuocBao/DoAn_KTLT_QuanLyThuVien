@@ -4,7 +4,7 @@
 </br>**Học Phần :** Kỹ thuật lập trình
 </br>**Mã HP    :**     0101124001
 </br>**Nhóm HP  :**         02
-</br>**GV       :**   Nguyen Văn Huy
+</br>**GV       :**   Nguyễn Văn Huy
 
 # Thông Tin Nhóm Thực Hiện
 * [Trần Quốc Bảo](https://fb.com/100005461099003)     - 1951120086 - CN19B
