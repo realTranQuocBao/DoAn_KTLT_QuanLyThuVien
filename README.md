@@ -1,6 +1,8 @@
-</br>**Bài cuối kỳ môn Kỹ Thuật Lập Trình**
+</br>
+**Bài cuối kỳ môn Kỹ Thuật Lập Trình**
 
-</br># Thông Tin Môn Học:
+</br>
+# Thông Tin Môn Học:
 </br>**Học Phần :** Kỹ thuật lập trình
 </br>**Mã HP    :**     0101124001
 </br>**Nhóm HP  :**         02
@@ -30,6 +32,7 @@
 ```
 READERS.bin ; BOOKS.bin ; BORROW_RETURN_TICKETS.bin ; COOKIE.tqb
 ```
+</br>
 </br>Source Code:
 ```
 QuanLyThuVien.cpp
